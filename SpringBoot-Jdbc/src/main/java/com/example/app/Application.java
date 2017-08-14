@@ -1,3 +1,4 @@
+/* Application started  */
 package com.example.app;
 
 import org.springframework.boot.SpringApplication;
